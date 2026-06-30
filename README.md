@@ -4,22 +4,24 @@ A estrutura faz sentido como um roadmap prático para aprender e montar um portf
 
 Uma sequência mais completa seria:
 
-1. Escolha um projeto (como o **serverest.dev**).
+1. Escolha um projeto (como o [serverest.dev](https://serverest.dev/)).
 2. Entenda os requisitos e as regras de negócio.
 3. Crie a documentação do projeto.
 4. Elabore o plano de testes (escopo, estratégia e critérios).
 5. Escreva os casos de teste.
-6. Crie os cenários em BDD (Gherkin).
+6. Crie os cenários em BDD [Gherkin](https://cucumber.io/docs/gherkin/reference).
 7. Execute os testes manuais.
 8. Reporte e acompanhe os bugs encontrados.
-9. Faça os testes de API (Postman, Bruno, Insomnia ou automatizados).
+9. Faça os testes de API ([Postman](https://www.postman.com/), [Bruno](https://www.usebruno.com/), [Insomnia](https://insomnia.rest/) ou automatizados).
 10. Automatize os testes:
 
-    * Robot Framework
-    * Cypress
-    * Playwright
+    * [Selenium](https://www.selenium.dev/)
+    * [Cucumber](https://cucumber.io/)
+    * [Robot Framework](https://robotframework.org/)
+    * [Cypress](https://www.cypress.io/#create)
+    * [Playwright](https://playwright.dev/)
 
-11. Gere relatórios de execução.
+11. Gere relatórios de execução. (Allure)
 12. Configure CI/CD (por exemplo, GitHub Actions).
 13. Versione todo o projeto no GitHub.
 
