@@ -1,3 +1,12 @@
+# Meu Roadmap de QA
+
+Este repositório foi criado como parte dos meus estudos em Qualidade de Software, testes manuais, testes de API, automação e CI/CD.
+
+Baseado/inspirado no roadmap público de Ricardo Fahham:
+https://github.com/ricardo-fahham/roadmap
+
+A partir deste material, estou adaptando o conteúdo para minha própria jornada de estudos e portfólio.
+
 # ROADMAP - Qualidade de Software
 
 A estrutura faz sentido como um roadmap prático para aprender e montar um portfólio de QA.
